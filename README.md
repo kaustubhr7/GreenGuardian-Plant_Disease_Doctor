@@ -1,1 +1,1 @@
-# Vegigo-Plant_Disease_Detector
+# GreenGuardian-Plant_Disease_Doctor
