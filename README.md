@@ -10,6 +10,9 @@ GreenGuardian is a Flutter application designed to help users identify plant dis
 - **📋 Results Display:** Detected diseases are displayed to the user along with relevant information such as possible causes and suggested remedies.
 - **📢 User Feedback:** Users can provide feedback on the accuracy of disease detection, helping to improve the app's performance over time.
 
+## 🎥 Video Demo
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/kaustubhr7/GreenGuardian-Plant_Disease_Doctor/main/Demo/Plant Diease Detection DEMO Video (with Code).mkv)
+
 ## Installation
 
 To use GreenGuardian, follow these steps:
@@ -56,7 +59,7 @@ The algorithm assigns a binary number to each pixel in the image based on whethe
 
 In the case of GreenGuardian, the Haar Cascade algorithm is trained to recognize patterns associated with various plant diseases, allowing the app to accurately detect and diagnose diseases based on input leaf images.
 
-## 🎥 Video Demo
+
 
 
 
