@@ -11,9 +11,9 @@ GreenGuardian is a Flutter application designed to help users identify plant dis
 - **📢 User Feedback:** Users can provide feedback on the accuracy of disease detection, helping to improve the app's performance over time.
 
 ## 🎥 Video Demo
-<div class="row">
+<div class="row" align="center">
   <div class="column">
-    <img src="https://github.com/kaustubhr7/GreenGuardian-Plant_Disease_Doctor/blob/main/.github/assets/images/Plant%20Disease%20Detection%20Demonstration%20Video%20(Just%20App).gif?raw=true" style ="width =100%">
+    <img src="https://github.com/kaustubhr7/GreenGuardian-Plant_Disease_Doctor/blob/main/.github/assets/images/Plant%20Disease%20Detection%20Demonstration%20Video%20(Just%20App).gif?raw=true" style =" height=250px width =400px">
   </div>
 </div>
 
